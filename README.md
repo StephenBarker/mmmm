@@ -1,4 +1,4 @@
-Mini Mike's Metro Minis
+Mini Mike's Metro Minis With Stephen's Added Models
 =======================
  
 A city-themed collection of over 400 blocky models you can remix or use outright in your 
@@ -27,11 +27,38 @@ Stuff included
 Directory structure
 -------------------
 
-* /vox -- the original models in .vox format
-* /fbx -- generic optimized poly models for game frameworks
-* /collada -- generic optimized poly models for game frameworks
-* /unity-plugin -- unity prefabs w/colliders
-* /screenshots -- screenshots
+* /Objects -- the original models in .vox format
+* /Objects/Animals -- x7
+* /Objects/Buildings -- Mainly outside buildings, think building a city
+* /Objects/Buildings/Doors -- x4
+* /Objects/Buildings/Exieriar -- Stuff you would mostly find outside
+* /Objects/Buildings/Exieriar/busstop -- x1
+* /Objects/Buildings/Exieriar/celltower -- x1
+* /Objects/Buildings/Exieriar/column -- x3
+* /Objects/Buildings/Exieriar/crosswalk -- x1
+* /Objects/Buildings/Exieriar/curb -- x9
+* /Objects/Buildings/Exieriar/driveway -- x3
+* /Objects/Buildings/Exieriar/graffiti -- x6
+* /Objects/Buildings/Exieriar/house -- x36
+* /Objects/Buildings/Exieriar/playgroud -- x5
+* /Objects/Buildings/Exieriar/sidewalk -- x5
+* /Objects/Buildings/Exieriar/sign -- x9
+* /Objects/Buildings/Exieriar/store -- x21
+* /Objects/Buildings/Exieriar/story -- things that go up x23
+* /Objects/Buildings/Exieriar/street light -- x3
+* /Objects/Buildings/Exieriar/tracks -- x2
+* /Objects/Buildings/Exieriar/trellis -- x1
+* /Objects/Buildings/Windows -- x1
+* /Objects/Objects -- things
+* /Objects/Objects/arcade -- x5
+* /Objects/Objects/armgate -- x2
+* /Objects/Objects/bench -- x5
+* /Objects/Objects/bible -- x2
+
+* /Objects/People
+* /Objects/Vhicles
+* /Screenshots -- screenshots
+* /Scense -- Built Scenes
 
 Frequently Asked Questions
 --------------------------
