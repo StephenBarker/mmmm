@@ -2,7 +2,7 @@ Mini Mike's Metro Minis
 =======================
  
 A city-themed collection of over 400 blocky models you can remix or use outright in your 
-own works.  Files are provided in .vox, .collada and Unity3D .prefab formats.
+own works.  Files are provided in .vox and maybe Unity3D .prefab formats.
 
 Screenshots
 -----------
