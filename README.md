@@ -1,7 +1,7 @@
 Stephen's Metro Minis Orginal From Mike Twitter: @mikelovesrobots
 =======================
  
-A city-themed collection of 441 blocky models you can remix or use outright in your 
+A city-themed collection of 448 blocky models you can remix or use outright in your 
 own works.  Files are provided in .vox and maybe Unity3D .prefab formats.
 
 Screenshots
@@ -42,8 +42,10 @@ Directory structure
 * /Objects/Objects -- things
 * /Objects/Objects/arcade -- x5
 * /Objects/Objects/armgate -- x2
+* /Objedts/Objects/bathtube -- x2
 * /Objects/Objects/bench -- x5
 * /Objects/Objects/bible -- x2
+* /Objects/Objects/bookshelf -- x2
 * /Objects/Objects/boxingring -- x2
 * /Objects/Objects/cage -- x3
 * /Objects/Objects/campfire -- x1
@@ -85,7 +87,7 @@ Directory structure
 * /Objects/Objects/stretcher -- x1
 * /Objects/Objects/table -- x5
 * /Objects/Objects/trashcan -- x4
-* /Objects/Objects/tree -- x12
+* /Objects/Objects/tree -- x15
 * /Objects/Objects/wall -- x3
 * /Objects/Objects/record -- x1
 * /Objects/Objects/respawner -- x2
