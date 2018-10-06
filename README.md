@@ -1,7 +1,7 @@
 Stephen's Metro Minis Orginal From Mike Twitter: @mikelovesrobots
 =======================
  
-A city-themed collection of 448 blocky models you can remix or use outright in your 
+A city-themed collection of 476 blocky models you can remix or use outright in your 
 own works.  Files are provided in .vox and maybe Unity3D .prefab formats.
 
 Screenshots
@@ -45,28 +45,33 @@ Directory structure
 * /Objedts/Objects/bathtube -- x2
 * /Objects/Objects/bench -- x5
 * /Objects/Objects/bible -- x2
+* /Objects/Objects/book -- x9
 * /Objects/Objects/bookshelf -- x2
 * /Objects/Objects/boxingring -- x2
 * /Objects/Objects/cage -- x3
 * /Objects/Objects/campfire -- x1
 * /Objects/Objects/candle -- x1
 * /Objects/Objects/cart -- x6
-* /Objects/Objects/chair -- x2
+* /Objects/Objects/chair -- x7
+* /Objects/Objects/chalkboard -- x1
 * /Objects/Objects/church podiam -- x1
 * /Objects/Objects/church pue -- x1
 * /Objects/Objects/clouds -- x3
 * /Objects/Objects/cone -- x1
 * /Objects/Objects/crate -- x8
 * /Objects/Objects/cross -- x1
+* /Objects/Objects/desk -- x3
 * /Objects/Objects/dogstand -- x1
+* /Objects/Objects/door -- x1
 * /Objects/Objects/Edibles -- x3
+* /Objects/Objects/fan -- x2
 * /Objects/Objects/fence -- x7
 * /Objects/Objects/fire -- x5
 * /Objects/Objects/fountain -- x1
 * /Objects/Objects/grass -- x4
-* /Objects/Objects/grave -- x4
 * /Objects/Objects/grill -- x1
 * /Objects/Objects/guitarcase -- x1
+* /Objects/Objects/hallway -- x4
 * /Objects/Objects/halo -- x1
 * /Objects/Objects/hydrant -- x1
 * /Objects/Objects/mailbox -- x4
@@ -79,15 +84,18 @@ Directory structure
 * /Objects/Objects/pentagram -- x1
 * /Objects/Objects/planter -- x4
 * /Objects/Objects/policetape -- x1
+* /Objects/Objects/poster -- 2x
 * /Objects/Objects/potty -- x3
 * /Objects/Objects/rubbish -- x9
 * /Objects/Objects/splatter -- x3
 * /Objects/Objects/stage -- x1
+* /Objects/Objects/stars -- x1
 * /Objects/Objects/statue -- x3
 * /Objects/Objects/stretcher -- x1
 * /Objects/Objects/table -- x5
 * /Objects/Objects/trashcan -- x4
 * /Objects/Objects/tree -- x15
+* /Objects/Objects/tumbstone -- x5
 * /Objects/Objects/wall -- x3
 * /Objects/Objects/record -- x1
 * /Objects/Objects/respawner -- x2
